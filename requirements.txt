@@ -1,0 +1,5 @@
+pywin32>=306
+pyinstaller>=6.3
+colorama>=0.4.6
+tomli>=2.0.1; python_version < "3.11"
+pytest>=8.0
