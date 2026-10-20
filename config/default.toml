@@ -1,0 +1,13 @@
+[process]
+name = "Subnautica2-Win64-Shipping.exe"
+poll_interval_ms = 250
+
+[trainer]
+hotkeys_enabled = true
+
+[trainer.flags]
+infinite_oxygen = true
+infinite_health = false
+no_hunger_thirst = true
+free_crafting = false
+instant_scan = true
