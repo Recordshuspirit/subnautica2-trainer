@@ -1,0 +1,8 @@
+{
+  "game_version": "1.0.3.12",
+  "oxygen": "0x02A15F40",
+  "health": "0x02A15F48",
+  "hunger": "0x02A15F50",
+  "thirst": "0x02A15F58",
+  "inventory_base": "0x02A16000"
+}
